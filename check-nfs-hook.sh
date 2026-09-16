@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#on PVE console, assign script to VM's: qm set 104 -hookscript local:snippets/check-nfs-hook.sh
 # ==============================================================================
 # CONFIGURATION
 # ==============================================================================
